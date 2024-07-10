@@ -1,2 +1,2 @@
 ## Onboarding API Project
-This project contains files related to the BigCo Onboarding API. 1
+This project contains files related to the BigCo Onboarding API.
